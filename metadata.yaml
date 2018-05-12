@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
 description: With a verse similar to "Old MacDonald had a Farm," a young man asks
   a young woman to take a walk along the river.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18360#The-Farmer-s-BoyOne-of-R.-Caldecott-s-picture-books
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2006-05-09'
 gutenberg_type: Text
