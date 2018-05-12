@@ -1,0 +1,33 @@
+_repo: The-Farmer-s-BoyOne-of-R.-Caldecott-s-picture-books_18360
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
+description: With a verse similar to "Old MacDonald had a Farm," a young man asks
+  a young woman to take a walk along the river.
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2006-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picture books for children'
+- !lcsh 'Nursery rhymes, English'
+- !lcc 'PZ'
+title: 'The Farmer''s Boy
+
+  One of R. Caldecott''s picture books'
+url: http://www.gutenberg.org/ebooks/18360
